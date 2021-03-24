@@ -23,11 +23,6 @@ public class GpTaskManager {
 
     public static void main(String[] args) {
         System.out.println("user.dir=> "+USER_DIR);
-
-//        String taskJson = FileUtil.readFileAll(TASK_FILE_PATH);
-
-//        GpTaskBean gpTaskBean = (GpTaskBean) GsonUtil.GsonToBean(taskJson,GpTaskBean.class);
-//        System.out.println(gpTaskBean.getAppTaskList().size());
     }
 
     private GpTaskBean getTaskFromFile(){
@@ -49,7 +44,7 @@ public class GpTaskManager {
             String resStr = HttpRequestUtil.sendGet(GET_TASK_URL,"limit=5");
             gpTaskBean = GsonUtil.GsonToBean(resStr,GpTaskBean.class);
         } catch (IOException e) {
-            e.printStackTrace();
+            e.printStackTrace();;
         }
         return gpTaskBean;
     }
@@ -63,7 +58,7 @@ public class GpTaskManager {
             bRet = true;
             System.out.println("submitTask response=>"+strRes);
         } catch (IOException e) {
-            e.printStackTrace();
+            e.printStackTrace();;
         }
         return bRet;
     }
