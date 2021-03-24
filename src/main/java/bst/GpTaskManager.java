@@ -23,6 +23,7 @@ public class GpTaskManager {
 
     public static void main(String[] args) {
         System.out.println("user.dir=> "+USER_DIR);
+        System.out.println("test");
     }
 
     private GpTaskBean getTaskFromFile(){
