@@ -1,0 +1,74 @@
+{
+  "appTaskList": [
+    {
+      "mTaskId": 7,
+      "mPackageName": "com.sega.pjsekai",
+      "mVerCode": -1,
+      "mVersionName": "-1",
+      "mSubmitBean": {
+        "submitId": 7,
+        "resCode": -1,
+        "errMsg": "has a GooglePlayException =>404\n您的设备与此商品不兼容。",
+        "needUpdate": false,
+        "nowVerCode": 0,
+        "nowVerName": ""
+      }
+    },
+    {
+      "mTaskId": 8,
+      "mPackageName": "com.GREMORYGames.ActionTaimanin",
+      "mVerCode": -1,
+      "mVersionName": "-1",
+      "mSubmitBean": {
+        "submitId": 8,
+        "resCode": -1,
+        "errMsg": "has a GooglePlayException =>404\n目前还无法在您所在的国家/地区购买 Google Play 中的内容。很抱歉，您将无法完成购买交易。",
+        "needUpdate": false,
+        "nowVerCode": 0,
+        "nowVerName": ""
+      }
+    },
+    {
+      "mTaskId": 9,
+      "mPackageName": "com.worldwitchesunitedfront.forwardworks",
+      "mVerCode": -1,
+      "mVersionName": "-1",
+      "mSubmitBean": {
+        "submitId": 9,
+        "resCode": -1,
+        "errMsg": "has a GooglePlayException =>404\n您的设备与此商品不兼容。",
+        "needUpdate": false,
+        "nowVerCode": 0,
+        "nowVerName": ""
+      }
+    },
+    {
+      "mTaskId": 10,
+      "mPackageName": "com.stove.epic7.google",
+      "mVerCode": 171000292,
+      "mVersionName": "1.0.292",
+      "mSubmitBean": {
+        "submitId": 10,
+        "resCode": 0,
+        "errMsg": "",
+        "needUpdate": false,
+        "nowVerCode": 171000292,
+        "nowVerName": "1.0.292"
+      }
+    },
+    {
+      "mTaskId": 11,
+      "mPackageName": "com.pig.laojp.aos",
+      "mVerCode": -1,
+      "mVersionName": "-1",
+      "mSubmitBean": {
+        "submitId": 11,
+        "resCode": -1,
+        "errMsg": "has a GooglePlayException =>404\n目前还无法在您所在的国家/地区购买 Google Play 中的内容。很抱歉，您将无法完成购买交易。",
+        "needUpdate": false,
+        "nowVerCode": 64,
+        "nowVerName": "1.0.13"
+      }
+    }
+  ]
+}

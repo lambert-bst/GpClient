@@ -1,0 +1,52 @@
+{
+  "appTaskList": [
+    {
+      "mTaskId": 1,
+      "mPackageName": "com.google.android.gms",
+      "mVerCode": -1,
+      "mVersionName": "-1"
+    },
+    {
+      "mTaskId": 2,
+      "mPackageName": "com.bilibili.fatego",
+      "mVerCode": -1,
+      "mVersionName": "-1"
+    },
+    {
+      "mTaskId": 3,
+      "mPackageName": "com.aniplex.fategrandorder.en",
+      "mVerCode": -1,
+      "mVersionName": "-1"
+    },
+    {
+      "mTaskId": 4,
+      "mPackageName": "studio.gameberry.murimrpg",
+      "mVerCode": -1,
+      "mVersionName": "-1"
+    },
+    {
+      "mTaskId": 5,
+      "mPackageName": "com.elysium.kingdom.hero.manga.impact.mmorpg.rpg.fun.game",
+      "mVerCode": -1,
+      "mVersionName": "-1"
+    },
+    {
+      "mTaskId": 6,
+      "mPackageName": "com.facebook.orca",
+      "mVerCode": -1,
+      "mVersionName": "-1"
+    },
+    {
+      "mTaskId": 7,
+      "mPackageName": "com.supercell.brawlstars",
+      "mVerCode": -1,
+      "mVersionName": "-1"
+    },
+    {
+      "mTaskId": 8,
+      "mPackageName": "com.pearlabyss.blackdesertm.gl",
+      "mVerCode": -1,
+      "mVersionName": "-1"
+    }
+  ]
+}
