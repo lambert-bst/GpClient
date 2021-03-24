@@ -15,7 +15,7 @@ public class GpTaskManager {
     private static final String TASK_SUBMIT_FILE_PATH = USER_DIR+"/"+"submit.json";
 
     private static final String GET_TASK_URL = "http://192.168.31.184:8000/getTask";
-    private static final String SUBMIT_TASK_URL = "http://192.168.31.184:8000/taskSubmit";
+    private static final String SUBMIT_TASK_URL = "http://192.168.31.184:8000/taskSubmit";;
 
     public GpTaskManager(){
 
