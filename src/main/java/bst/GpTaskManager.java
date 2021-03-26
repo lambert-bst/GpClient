@@ -26,7 +26,7 @@ public class GpTaskManager {
         System.out.println("test");
     }
 
-    private GpTaskBean getTaskFromFile(){
+    public GpTaskBean getTaskFromFile(){
         String taskJson = FileUtil.readFileAll(TASK_FILE_PATH);
         GpTaskBean gpTaskBean = GsonUtil.GsonToBean(taskJson,GpTaskBean.class);
         //System.out.println(gpTaskBean.getAppTaskList().size());
